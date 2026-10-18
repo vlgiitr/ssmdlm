@@ -60,3 +60,16 @@ Pretrained checkpoints for Language Modeling (OpenWebText) are available on Hugg
 
 ## Acknowledgements
 This codebase builds upon [Duo](https://github.com/s-sahoo/duo), [ReMDM](https://github.com/kuleshov-group/remdm), [Dream-7B](https://github.com/DreamLM/Dream), and [Soft-Masked DLMs](https://openreview.net/forum?id=Gba02UMvrG).
+
+## Citation
+
+If you use this code or find our work helpful, please cite the following paper:
+
+```bibtex
+
+@article{nigam2026lost,
+  title={Lost in Interpolation: Why Predictive Feedback Fails in Diffusion Language Models},
+  author={Nigam, Lavanya and Bansal, Ishaan and Sood, Aryan and Aggarwal, Vidit and Nayak, Gaurav Kumar},
+  journal={arXiv preprint arXiv:2608.06529},
+  year={2026}
+}
